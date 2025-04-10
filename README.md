@@ -14,9 +14,8 @@ This repository is for the Pluralsight course **[Testing .NET MAUI Apps](https:/
 
 ## Demo App
 
-The published version of the demo app is maintained separately at https://github.com/kamranayub/dotnet-maui-bowling-calculator
-
-This course repository holds the source files used for the clip demos, which you can reference. 
+The published version of the demo app is maintained separately for private distribution.
+However, this course repository holds the demo source files used, which you can reference.
 
 The demo app may have received updates over time since it was published in the app stores.
 
