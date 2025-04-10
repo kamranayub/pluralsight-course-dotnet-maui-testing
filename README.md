@@ -1,6 +1,6 @@
 # Testing .NET MAUI Apps Pluralsight Course
 
-This repository is for the Pluralsight course **[Testing .NET MAUI Apps](https://bit.ly/PSMAUITestingDistribution)**. The license is Apache 2.0.
+This repository is for the Pluralsight course **[Testing .NET MAUI Apps](https://bit.ly/PSMAUITesting)**. The license is Apache 2.0.
 
 [![Course overview screenshot]($COURSE_HERO_IMAGE$)]($COURSE_LINK$)
 
